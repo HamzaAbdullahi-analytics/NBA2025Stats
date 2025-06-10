@@ -40,6 +40,8 @@ The NBA 2025 Dashboard provides a **layered view of player impact**, going beyon
 
 Useful for analysts, fans, scouts, and content creators looking to understand who really drives the modern NBA game.
 
+## Dashboard 
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FNBA%2BSTATS%2B2025%2BDashboard%2BFinal.&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001973d2a88c3_00000003" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 
 
 ### 🛠️ Tools Used
