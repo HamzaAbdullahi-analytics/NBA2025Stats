@@ -21,6 +21,7 @@ This dashboard highlights player performance trends for the 2025 NBA season, bui
 - Cleaned and filtered player stats with a 60-game minimum
 - Grouped players by age and performance metrics (PPG, 3PA, FGA)
 - Built visual segments: Top Scorers, Young Stars, 3-Point Volume Shooters, Game Drivers
+- Dataset used [NBA Stats Dashboard 2024-2025 season.xlsx](https://github.com/user-attachments/files/20679176/NBA.Stats.Dashboard.2024-2025.season.xlsx)
 
 ---
 
@@ -39,7 +40,7 @@ The NBA 2025 Dashboard provides a **layered view of player impact**, going beyon
 
 Useful for analysts, fans, scouts, and content creators looking to understand who really drives the modern NBA game.
 
----
+
 
 ### 🛠️ Tools Used
 - IBM Cognos Analytics
