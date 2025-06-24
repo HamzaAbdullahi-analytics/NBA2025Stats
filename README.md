@@ -6,7 +6,7 @@ This dashboard highlights player performance trends for the 2025 NBA season, bui
 - Who takes the most 3-point shots and how efficient are they?
 - Which players influence games the most through scoring and shot volume?
 
----
+--- 
 
 ###  Key Performance Indicators (KPIs)
 - **Top Scorer:** Shai Gilgeous-Alexander – 32.7 PPG
@@ -48,3 +48,5 @@ Useful for analysts, fans, scouts, and content creators looking to understand wh
 - IBM Cognos Analytics
 - Excel (for initial prep)
 - Adobe Acrobat (for export)
+- SQL Querys
+  
